@@ -83,16 +83,6 @@ Formulário com:
 - Input criar senha
 - Botão "criar Conta" → volta para login
 ```
-
-## 📄 Licença
-
-Este projeto está sob a Minha própia criação
-
-## 🙋‍♂️ Autor
-
-Desenvolvido por **Thiago**  
-Contato: [thiagodromont22@gmail.com]
-
----
+Projeto criado por mim no figma e programei
 **Feito com ❤️ usando React e Vite!**
 
